@@ -1,0 +1,9 @@
+* drakma
+
+HTTP client written in Common Lisp
+
+|---------+----------------------------------------------------------------------|
+| source  | file:https://github.com/edicl/drakma/archive/refs/tags/v2.0.9.tar.gz |
+| version | 2.0.9                                                                |
+| systems | drakma                                                               |
+|---------+----------------------------------------------------------------------|
